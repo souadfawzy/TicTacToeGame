@@ -35,42 +35,37 @@ Z|   |
    |X|   
    |   |   
 
-Player 'O', enter your move (row[1-3] column[1-3]): 
-3,1
+Player 'O', enter your move (row[1-3] column[1-3]): 3,1
+
 Z|   |   
    |X|   
 O|   |   
 
-Player 'Z', enter your move (row[1-3] column[1-3]): 
-1,2
+Player 'Z', enter your move (row[1-3] column[1-3]): 1,2
+
 Z|Z|   
    |X|   
 O|   |   
 
-Player 'X', enter your move (row[1-3] column[1-3]): 
-2,2
+Player 'X', enter your move (row[1-3] column[1-3]): 2,2
+
 This move at (2,2) is not valid. Try again...
-Player 'X', enter your move (row[1-3] column[1-3]): 
-2,1
+Player 'X', enter your move (row[1-3] column[1-3]): 2,1
+
 
 Z|Z|   
 X|X|   
 O|   |   
 
-Player 'O', enter your move (row[1-3] column[1-3]): 
-3,2
+Player 'O', enter your move (row[1-3] column[1-3]): 3,2
+
 Z|Z|   
------------
 X|X|   
------------
 O|O|   
 
-Player 'Z', enter your move (row[1-3] column[1-3]): 
-1,3
+Player 'Z', enter your move (row[1-3] column[1-3]): 1,3
 Z|Z|Z
------------
 X|X|   
------------
 O|O|   
 
 Z won! Thanks for playing!

@@ -66,6 +66,7 @@ O|O|
 Player 'Z', enter your move (row[1-3] column[1-3]): 1,3
 
 Z|Z|Z
+
 X|X|   
 O|O|   
 

@@ -26,33 +26,25 @@ Input Formate like Row , Column  like 1,2 in range from 1 to 3
 Player 'Z', enter your move (row[1-3] column[1-3]): 
 1,1
 Z|   |   
------------
    |   |   
------------
    |   |   
 
 Player 'X', enter your move (row[1-3] column[1-3]): 
 2,2
 Z|   |   
------------
    |X|   
------------
    |   |   
 
 Player 'O', enter your move (row[1-3] column[1-3]): 
 3,1
 Z|   |   
------------
    |X|   
------------
 O|   |   
 
 Player 'Z', enter your move (row[1-3] column[1-3]): 
 1,2
 Z|Z|   
------------
    |X|   
------------
 O|   |   
 
 Player 'X', enter your move (row[1-3] column[1-3]): 
@@ -60,10 +52,9 @@ Player 'X', enter your move (row[1-3] column[1-3]):
 This move at (2,2) is not valid. Try again...
 Player 'X', enter your move (row[1-3] column[1-3]): 
 2,1
+
 Z|Z|   
------------
 X|X|   
------------
 O|   |   
 
 Player 'O', enter your move (row[1-3] column[1-3]): 

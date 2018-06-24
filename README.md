@@ -16,12 +16,12 @@ Code
 5-IllegalMoveException: this is custom exception to throw in case on wrong move 
 6-TestBoard:this is Junit test class to test the game
 I made it very simple because it is simple not need for complex design aspects
------------------------------------------------------------------------------------------
+
 I use Junit for testing but also i made it very simple 
 
 to run this code just impot code as java project and then run main class as java pplication as this is sample for one run
 
-------------------------------------------------------------------------------------------------------------
+
 Input Formate like Row , Column  like 1,2 in range from 1 to 3
 Player 'Z', enter your move (row[1-3] column[1-3]): 
 1,1

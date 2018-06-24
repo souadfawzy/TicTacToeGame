@@ -23,14 +23,14 @@ to run this code just impot code as java project and then run main class as java
 
 
 Input Formate like Row , Column  like 1,2 in range from 1 to 3
-Player 'Z', enter your move (row[1-3] column[1-3]): 
-1,1
+Player 'Z', enter your move (row[1-3] column[1-3]): 1,1
+
 Z|   |   
    |   |   
    |   |   
 
-Player 'X', enter your move (row[1-3] column[1-3]): 
-2,2
+Player 'X', enter your move (row[1-3] column[1-3]): 2,2
+
 Z|   |   
    |X|   
    |   |   
